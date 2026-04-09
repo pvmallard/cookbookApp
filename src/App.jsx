@@ -7,6 +7,7 @@ function App() {
   return (
     <div className='container'>
       <h1>heya react</h1>
+      <p>will this change us</p>
     </div>
   )
 }
